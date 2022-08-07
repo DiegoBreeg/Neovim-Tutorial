@@ -35,7 +35,7 @@ Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para chec
 ## Modo Normal 
 O modo normal é a porta de entrada para os outros modos e também nos permite navegar pelo código de forma ágil sem necessitar colocar a mão no mouse para mover o cursor, tudo é feito no teclado.
 
-Para navegar pelo código podemos utilizar as seguites teclas:
+Para mover o cursor pelo código podemos utilizar as seguites teclas:
 
 TECLA | FUNÇÃO
 ------|--------------------
@@ -44,8 +44,18 @@ TECLA | FUNÇÃO
 `k`   | move para cima
 `l`   | move para esquerda
 
-No modo normal temos acesso ao terminal de comandos, que pode ser acessado digitando `:` seguido pelo comando desejado e `<Enter>`para executá-lo.
 
+
+No modo normal temos acesso ao terminal de comandos, que pode ser acessado digitando `:` seguido pelo `comando` desejado e `<Enter>`para executá-lo.
 ```
 : <comando> <Enter>
 ```
+Os dois comandos mais básicos que podemos utilizar são o de salvar e sair.
+
+TECCLA | DESCRIÇÃO
+-------|----------
+:w     | salva todas as alterações no documento
+:q     | fecha o neovim se todas as alterações estiverem salvas
+:wq    | salva todas as alterações e fecha o neovim
+:q!    | força o fechamento sem salvar as alteraç
+
