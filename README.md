@@ -15,4 +15,4 @@ MODO      | TECLA | DESCRIÇÃO
 <p>
   Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checar em que modo estamos atualmente basta verificar o que está escrito na mensagem posicionada no cantro inferior esquerdo do terminal:
 </p>
-<img src="/viwer/img/normal_mode.png">
+<img src="/viwer/img/normal_mode_cortado.png">
