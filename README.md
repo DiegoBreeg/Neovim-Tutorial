@@ -12,7 +12,7 @@ MODO      | TECLA | DESCRIÇÃO
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
 ### Normal
-```<img src="/viwer/img/normal_mode.png">```
+`<img src="/viwer/img/normal_mode.png">`
 <p>
   Ao entrarmos no Neovim caímos direto no modo normal, podemos identificar que estamos neste modo pela mensagem que aparece no canto inferior esquerdo
 </p>
