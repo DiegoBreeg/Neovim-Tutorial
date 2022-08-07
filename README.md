@@ -11,8 +11,8 @@ MODO      | TECLA | DESCRIÇÃO
 `{insert}`|`i`    |modo de edição livre, permite a inserção de caracteres.
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
-### Normal
-<img src="/viwer/img/normal_mode.png">
+## Normal
 <p>
-  Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checar o modo atual basta 
+  Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checar em que modo estamos atualmente basta verificar o que está escrito na mensagem posicionada no cantro inferior esquerdo do terminal:
 </p>
+<img src="/viwer/img/normal_mode.png">
