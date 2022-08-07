@@ -1,5 +1,5 @@
 # Neovim-Tutorial
-##tutorial básico de como utilizar o neovim
+## tutorial básico de como utilizar o neovim
 
 Neovim possui vários modos de edição de texto e cada um deles tem sua especificidade.
 
