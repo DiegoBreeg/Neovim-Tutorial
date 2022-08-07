@@ -8,7 +8,7 @@
 MODO      | TECLA | DESCRIÇÃO
 ----------|-------|--------------------------------------------------------------------------------------------------
 `{normal}`|`ESC`  |modo padrão do neovim, modo em que se encontra quando é aberto.
-`{insert}`|`i`    |é o modo de edição livre, permite a inserção de caracteres.
-`{visual}`|`v`    |é o o modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
+`{insert}`|`i`    |modo de edição livre, permite a inserção de caracteres.
+`{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
 
