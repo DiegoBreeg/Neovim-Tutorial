@@ -21,9 +21,9 @@ MODO      | TECLA | DESCRIÇÃO
 Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checarmos em que modo  atualmente estamos podemos verificar a mensagem posicionada no canto inferior esquerdo do terminal.
 
 
-  <img src="/view/img/normal_mode.png">
-  <img src="/view/img/insert_mode.png">
-  <img src="/view/img/visual_mode.png">
+  1. Normal <img src="/view/img/normal_mode.png">
+  2. Insert <img src="/view/img/insert_mode.png">
+  3. visual <img src="/view/img/visual_mode.png">
 
 ## Modo Normal <div id='modo_normal'/>
 O modo normal é a porta de entrada para os outros modos e também nos permite navegar pelo código de forma ágil sem necessitar colocar a mão no mouse para mover o cursor.
