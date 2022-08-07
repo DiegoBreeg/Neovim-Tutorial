@@ -1,6 +1,9 @@
 # Neovim-Tutorial
 ### Tutorial básico de como utilizar o neovim
-Neovim possui vários modos de edição de texto onde cada um deles possui sua especificidade.
+<p>
+  Neovim possui vários modos de edição de texto onde cada um deles possui sua especificidade.
+</p>
+
 
 MODO      | DESCRIÇÃO
 ----------|---------------------------------------------------------------------------------------------------------
@@ -11,8 +14,4 @@ MODO      | DESCRIÇÃO
 
 
 
-<p>
-  <a href="https://github.com/orkestral/venom/blob/master/docs/getting-started/creating-client.md">Getting Started</a> •
-  <a href="https://github.com/orkestral/venom/blob/master/docs/getting-started/basic-functions.md">Basic Function</a> •
-  <a href="https://github.com/orkestral/venom/tree/master/docs/getting-started">Documentation</a>
-</p>
+<a target="_blank" href="https://t.me/joinchat/G8wxNXidWBo1ZDYx" target="_blank"><img title="Telegram" height="100" width="375" src="https://user-images.githubusercontent.com/66584466/117182238-7d1d8980-adac-11eb-9a70-e32f90c3d4e5.png"></a>
