@@ -46,6 +46,6 @@ TECLA | FUNÇÃO
 
 No modo normal temos acesso ao terminal de comandos, que pode ser acessado digitando `:` seguido pelo comando desejado e `<Enter>`para executá-lo.
 
-exemplo: `:` `<comando>` `<Enter>`
-
-
+```
+: <comando> <Enter>
+```
