@@ -12,5 +12,5 @@ MODO      | TECLA | DESCRIÇÃO
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
 ----------------------------------------------------------------------------------------------------------------------
-###{Normal}
+### Normal
 
