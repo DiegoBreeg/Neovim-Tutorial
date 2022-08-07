@@ -3,8 +3,8 @@
 
 
 # Tópicos
-1. [Introdução(#Introdução)
-2. [Normal Mode](#Normal Mode)
+[Introdução(#Introdução)
+[Normal Mode](#Normal Mode)
 
 
 ## Introdução
