@@ -14,7 +14,7 @@ Neovim possui vários modos de interação, cada um deles tem sua especificidade
 
 MODO      | TECLA | DESCRIÇÃO
 ----------|-------|-------------------------------------------------------------------------------------------------
-`{normal}`|`ESC`  |modo padrão do neovim, utilizado para vanegar pelo código.
+`{normal}`|`ESC`  |modo padrão do neovim, utilizado para vanegar pelo código e acessar os outros modos.
 `{insert}`|`i`    |modo de edição livre, permite a inserção de caracteres.
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
