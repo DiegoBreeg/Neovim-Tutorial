@@ -33,7 +33,7 @@ Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para chec
   <div id='modo_normal'/>
 
 ## Modo Normal 
-O modo normal é a porta de entrada para os outros modos e também nos permite navegar pelo código de forma ágil sem necessitar colocar a mão no mouse para mover o cursor.
+O modo normal é a porta de entrada para os outros modos e também nos permite navegar pelo código de forma ágil sem necessitar colocar a mão no mouse para mover o cursor, tudo é feito no teclado.
 
 Para navegar pelo código podemos utilizar as seguites teclas:
 
