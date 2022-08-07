@@ -2,7 +2,7 @@
 ### Tutorial básico de como utilizar o neovim
 
 
-###Tópicos
+### Tópicos
 1. [Introdução](#introducao)
 2. [Modo Normal](#modo_normal)
 
