@@ -2,10 +2,10 @@
 ### Tutorial básico de como utilizar o neovim
 
 
-Tópicos
+|Tópicos|
 --------------------------------
-[Introdução](#introducao)|
-[Modo Normal](#modo_normal)|
+|[Introdução](#introducao)|
+|[Modo Normal](#modo_normal)|
 
 
 ## Introdução <div id='introducao'/>
