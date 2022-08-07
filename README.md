@@ -14,5 +14,5 @@ MODO      | TECLA | DESCRIÇÃO
 ### Normal
 <img src="/viwer/img/normal_mode.png">
 <p>
-  Ao entrarmos no Neovim caímos direto no modo normal, podemos identificar que estamos neste modo pela mensagem que aparece no canto inferior esquerdo
+  Ao entrarmos no neovim, por padrão, somos colocados no modo {normal}. Para checar o modo atual, basta olhar a informaç
 </p>
