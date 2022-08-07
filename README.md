@@ -11,4 +11,6 @@ MODO      | TECLA | DESCRIÇÃO
 `{insert}`|`i`    |modo de edição livre, permite a inserção de caracteres.
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
+----------------------------------------------------------------------------------------------------------------------
+###{Normal}
 
