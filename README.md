@@ -11,5 +11,7 @@ MODO      | TECLA | DESCRIÇÃO
 `{insert}`|`i`    |modo de edição livre, permite a inserção de caracteres.
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
-<h3> Normal </h3>
-<p>Ao entrarmos no Neovim caímos direto no modo normal, podemos identificar que estamos neste modo pela mensagem que aparece no canto inferior esquerdo</p>
+### Normal
+<p>
+  Ao entrarmos no Neovim caímos direto no modo normal, podemos identificar que estamos neste modo pela mensagem que aparece no canto inferior esquerdo
+</p>
