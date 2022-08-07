@@ -19,7 +19,7 @@ Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para chec
 <img src="/view/img/visual_mode.png">
 
 MODO      | TECLA | DESCRIÇÃO
-----------|-------|--------------------------------------------------------------------------------------------------
+----------|-------|-------------------------------------------------------------------------------------------------
 `{normal}`|`ESC`  |modo padrão do neovim, utilizado para vanegar pelo código.
 `{insert}`|`i`    |modo de edição livre, permite a inserção de caracteres.
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
@@ -30,7 +30,7 @@ O modo normal é a porta de entrada para os outros modos e também nos permite n
 Para navegarpelo código podemos utilizar as seguites teclas:
 
 TECLA | FUNÇÃO
--------------------
+------|--------------------
 `h`   | move para direita
 `j`   | move para baixo
 `k`   | move para cima
