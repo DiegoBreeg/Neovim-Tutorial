@@ -18,8 +18,7 @@ Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para chec
 <img src="/view/img/normal_mode.png">
 <img src="/view/img/insert_mode.png">
 <img src="/view/img/visual_mode.png">
-
-
+<br>
 MODO      | TECLA | DESCRIÇÃO
 ----------|-------|-------------------------------------------------------------------------------------------------
 `{normal}`|`ESC`  |modo padrão do neovim, utilizado para vanegar pelo código.
