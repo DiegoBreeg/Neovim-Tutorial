@@ -9,10 +9,10 @@
 <div id='introducao'/>
 
 ## Introdução
-Para iniciar o Neovim devemos abrir o terminal e degitar o seguinte comando:
+Para iniciar o Neovim devemos abrir o terminal e inserir o seguinte comando:
 
 ```bash
-  nvim [nome do arquivo]
+$ nvim nome_do_arquivo
 ```
 
 Neovim possui vários modos de interação, cada um deles tem sua especificidade e alteram a maneira de interagir com o conteúdo. Para alternar de um modo para o outro basta pressionar a tecla correspondente a partir do modo normal. Por exemplo, se estivermos no modo de inserção e quisermos entrar no modo visual, teremos que apertar a tecla `ESC` para retornar ao modo normal e depois pressionar `v`. Se estivermos no modo normal e quisermos alternar para o modo de inserção, basta apenas apertar a tecla `i`.
