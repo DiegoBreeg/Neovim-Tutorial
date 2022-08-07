@@ -9,7 +9,7 @@
 
 ## Introdução <div id='introducao'/>
 <p>
-  Neovim possui vários modos de edição de texto onde cada um deles tem sua especificidade. Para alternar de um modo para o outro basta pressionar a tecla correspondente.
+Neovim possui vários modos de interação com o texto, cada um deles tem sua especificidade e alteram a maneira de interagir com o conteúdo. Para alternar de um modo para o outro basta pressionar a tecla correspondente. Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checarmos em que modo  atualmente estamos podemos verificar a mensagem posicionada no canto inferior esquerdo do terminal
 </p>
 
 MODO      | TECLA | DESCRIÇÃO
@@ -20,6 +20,6 @@ MODO      | TECLA | DESCRIÇÃO
 
 ## Modo Normal <div id='modo_normal'/>
 <p>
-  Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checar em que modo estamos atualmente basta verificar o que está escrito na mensagem posicionada no cantro inferior esquerdo do terminal:
+  Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checarmos em que modo  atualmente estamos podemos verificar a mensagem posicionada no canto inferior esquerdo do terminal
 </p>
 <img src="/viwer/img/normal_mode_cortado.png">
