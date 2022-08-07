@@ -11,7 +11,7 @@ MODO      | DESCRIÇÃO
 
 
 
-<p align="center">
+<p>
   <a href="https://github.com/orkestral/venom/blob/master/docs/getting-started/creating-client.md">Getting Started</a> •
   <a href="https://github.com/orkestral/venom/blob/master/docs/getting-started/basic-functions.md">Basic Function</a> •
   <a href="https://github.com/orkestral/venom/tree/master/docs/getting-started">Documentation</a>
