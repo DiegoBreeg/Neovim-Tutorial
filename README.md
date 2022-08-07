@@ -11,7 +11,9 @@
 <p>
 Neovim possui vários modos de interação, cada um deles tem sua especificidade e alteram a maneira de interagir com o conteúdo. Para alternar de um modo para o outro basta pressionar a tecla correspondente. Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checarmos em que modo  atualmente estamos podemos verificar a mensagem posicionada no canto inferior esquerdo do terminal
 </p>
-<img src="/viwer/img/normal_mode_cortado.png">
+<img src="/viwer/img/normal_mode.png">
+<img src="/viwer/img/insert_mode.png">
+<img src="/viwer/img/visual_mode.png">
 
 MODO      | TECLA | DESCRIÇÃO
 ----------|-------|--------------------------------------------------------------------------------------------------
