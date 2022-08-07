@@ -19,8 +19,8 @@ Neovim possui vários modos, cada um deles tem sua especificidade e altera a man
 
 MODO      | TECLA | DESCRIÇÃO
 ----------|-------|-------------------------------------------------------------------------------------------------
-`{normal}`|`ESC`  |modo padrão do neovim, utilizado para vanegar pelo código e acessar os outros modos.
-`{insert}`|`i`    |modo de edição livre, permite a inserção de caracteres.
+`{normal}`|`ESC`  |modo padrão do neovim, utilizado para vanegar pelo código e acessar o terminal de comandos.
+`{insert}`|`i`    |modo de edição livre, permite a inserção de caracteres no arquivo.
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
 Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checarmos em que modo  atualmente estamos podemos verificar a mensagem posicionada no canto inferior esquerdo do terminal.
