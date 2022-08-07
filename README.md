@@ -46,7 +46,7 @@ TECLA | FUNÇÃO
 
 
 
-No modo normal temos acesso ao terminal de comandos, que pode ser acessado digitando `:` seguido pelo `comando` desejado e `<Enter>`para executá-lo.
+No modo normal temos acesso ao terminal de comandos, que pode ser acessado digitando `:` seguido pelo `comando` desejado e `<Enter>` para executá-lo.
 ```
 : <comando> <Enter>
 ```
@@ -57,5 +57,5 @@ TECCLA | DESCRIÇÃO
 :w     | salva todas as alterações no documento
 :q     | fecha o neovim se todas as alterações estiverem salvas
 :wq    | salva todas as alterações e fecha o neovim
-:q!    | força o fechamento sem salvar as alteraç
+:q!    | força o fechamento sem salvar as alterações
 
