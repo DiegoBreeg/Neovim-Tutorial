@@ -2,12 +2,12 @@
 ### Tutorial básico de como utilizar o neovim
 
 
-# Tópicos
-[Introdução(#introducao)
+Tópicos
+[Introdução](#introducao)
 [Normal Mode](#Normal Mode)
 
-
-<h2 id="introducao">Introdução</h2>
+<div id='introducao'/>
+## Introdução
 <p>
   Neovim possui vários modos de edição de texto onde cada um deles tem sua especificidade. Para alternar de um modo para o outro basta pressionar a tecla correspondente.
 </p>
