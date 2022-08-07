@@ -25,7 +25,8 @@ MODO      | TECLA | DESCRIÇÃO
 `{visual}`|`v`    |modo utilizado para selecionar parte do código, nele é possível selecionar grupos de caracteres.
 
 ## Modo Normal <div id='modo_normal'/>
-<p>
-  Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checarmos em que modo  atualmente estamos podemos verificar a mensagem posicionada no canto inferior esquerdo do terminal
-</p>
+
+No modo normal temos acesso ao terminal de comandos, que pode ser acessado digitando `:` seguido pelo comando desejado e `<Enter>`para executálo
+`:` `<comando desejado>` `<Enter>` 
+
 
