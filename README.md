@@ -14,12 +14,11 @@ Neovim possui vários modos de interação, cada um deles tem sua especificidade
 
 Ao entrarmos no neovim, por padrão, somos colocados no modo `normal`. Para checarmos em que modo  atualmente estamos podemos verificar a mensagem posicionada no canto inferior esquerdo do terminal.
 
-
-<img src="/view/img/normal_mode.png">
-<img src="/view/img/insert_mode.png">
-<img src="/view/img/visual_mode.png">
-
-<br>
+<div>
+  <img src="/view/img/normal_mode.png">
+  <img src="/view/img/insert_mode.png">
+  <img src="/view/img/visual_mode.png">
+<div>
 
 MODO      | TECLA | DESCRIÇÃO
 ----------|-------|-------------------------------------------------------------------------------------------------
