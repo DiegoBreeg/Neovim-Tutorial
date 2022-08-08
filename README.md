@@ -52,7 +52,7 @@ No modo normal temos acesso ao terminal de comandos, que pode ser acessado digit
 ```
 Os dois comandos mais básicos que podemos utilizar são o de salvar e sair.
 
-TECCLA | DESCRIÇÃO
+TECLA | DESCRIÇÃO
 -------|----------
 :w     | salva todas as alterações no documento
 :q     | fecha o neovim se todas as alterações estiverem salvas
